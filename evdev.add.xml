@@ -1,0 +1,20 @@
+         <name>io</name>
+         <!-- Keyboard indicator for Digimon layouts -->
+         <shortDescription>en</shortDescription>
+         <description>Digimon (IDK)</description>
+         <languageList>
+           <iso639Id>eng</iso639Id>
+         </languageList>
+       </configItem>
+       <variantList>
+         <variant>
+           <configItem>
+             <name>intl</name>
+             <description>Digimon (IDK) with dead keys</description>
+           </configItem>
+         </variant>
+       </variantList>
+     </layout>
+     <layout>
+       <configItem>
+
