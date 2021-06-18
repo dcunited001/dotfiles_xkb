@@ -1,0 +1,17 @@
+[$Version]
+update_info=kxkb_variants.upd:split-variants
+
+[Layout]
+DisplayNames=
+LayoutList=io
+LayoutLoopCount=-1
+Model=pc104
+Options=lv3:ralt_alt,lv5:menu_switch,lv3:menu_switch
+ResetOldOptions=true
+ShowFlag=true
+ShowLabel=false
+ShowLayoutIndicator=true
+ShowSingle=true
+SwitchMode=Global
+Use=true
+VariantList=intl
